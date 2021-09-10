@@ -1,8 +1,11 @@
 # Getting Started with Create React App
 
 This app focused on how to make a dynamic path in the backend with react-router-dom. It can delete and save a task in the backend as task manager app with JSON server.
-```bash
+
 ## install dependencies
+
+```bash
+
 $ npm install
 
 # Run React dev server (http://localhost:3000)
