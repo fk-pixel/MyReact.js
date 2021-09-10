@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Market Appoinment",
+      "day": "25. Oct 2021",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Rise Appoinment",
+      "day": "5. Feb 2021",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Friendship Appoinment",
+      "day": "2. Dec 2021",
+      "reminder": true
+    },
+    {
+      "text": "Fishing on See",
+      "day": "13. November 2021",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
