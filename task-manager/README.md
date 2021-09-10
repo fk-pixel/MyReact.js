@@ -2,7 +2,7 @@
 
 This app focused on how to make a dynamic path in the backend with react-router-dom. It can delete and save a task in the backend as task manager app with JSON server.
 
-## install dependencies
+## Install Dependencies
 
 ```bash
 
